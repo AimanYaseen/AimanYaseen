@@ -54,5 +54,5 @@ I am a results-driven Full-Stack Engineer with a track record of taking complete
 ---
 
 <p align="center">
-  📂 <a href="https://drive.google.com/file/d/1MwM3AeUMvIl--hWrJR_cORhhzUFQSQQC/view?usp=drive_link"><b>Download My Tailored CV</b></a> | ✉️ <a href="mailto:aimanyaseen86@gmail.com"><b>Discuss Opportunities</b></a>
+  | ✉️ <a href="mailto:aimanyaseen86@gmail.com"><b>Discuss Opportunities</b></a>
 </p>
